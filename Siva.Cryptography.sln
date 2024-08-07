@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siva.Cryptography", "Siva.Cryptography\Siva.Cryptography.csproj", "{B1B8F868-C0D5-4F23-A651-64597000D481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siva.Cryptography.Tests", "Siva.Cryptography.Tests\Siva.Cryptography.Tests.csproj", "{C8A18969-15BC-49BE-85AB-84E5A9D012DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B8F868-C0D5-4F23-A651-64597000D481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B8F868-C0D5-4F23-A651-64597000D481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B8F868-C0D5-4F23-A651-64597000D481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B8F868-C0D5-4F23-A651-64597000D481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A18969-15BC-49BE-85AB-84E5A9D012DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A18969-15BC-49BE-85AB-84E5A9D012DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A18969-15BC-49BE-85AB-84E5A9D012DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A18969-15BC-49BE-85AB-84E5A9D012DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219FEEF1-30D6-405E-B68C-F6101BE6AECE}
+	EndGlobalSection
+EndGlobal
